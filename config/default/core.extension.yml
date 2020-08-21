@@ -1,4 +1,5 @@
 module:
+  action: 0
   autosave_form: 0
   bg_image_formatter: 0
   blazy: 0
@@ -19,7 +20,6 @@ module:
   ctools: 0
   datetime: 0
   dblog: 0
-  devel: 0
   diff: 0
   dropzonejs: 0
   editor: 0
@@ -96,6 +96,7 @@ module:
   search_api_db: 0
   seckit: 0
   serialization: 0
+  shield: 0
   shortcut: 0
   simple_gmap: 0
   simple_oauth: 0
