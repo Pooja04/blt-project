@@ -44,12 +44,12 @@ modules:
   local:
     enable:
       - dblog
-      - devel
       - seckit
       - views_ui
     uninstall:
       - acquia_connector
       - shield
+      - devel
   ci:
     enable: {  }
     uninstall:
